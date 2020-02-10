@@ -5,4 +5,4 @@ describe('Test function behaviour', () => {
     const result = myFunction();
     expect(result).toEqual(1);
   });
-})
+});
